@@ -2,6 +2,8 @@
 # 💫 About Me:
 I'm a programmer from  Bangladesh 
 
+<img src="https://web.facebook.com/photo/?fbid=648271910521370&set=a.100655601949673"
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100060156993210) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@hkrsh) 
@@ -16,14 +18,11 @@ I'm a programmer from  Bangladesh
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hkrsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hkrsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hkrsh&icon=0&color=1)](https://visitcount.itsvg.in)
