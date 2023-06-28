@@ -2,7 +2,7 @@
 # 💫 About Me:
 I'm a programmer from  Bangladesh 
 
-<img src="https://web.facebook.com/photo/?fbid=648271910521370&set=a.100655601949673"
+<img src="https://web.facebook.com/photo/?fbid=648271910521370&set=a.100655601949673"width="512px"/>
 
 
 ## 🌐 Socials:
