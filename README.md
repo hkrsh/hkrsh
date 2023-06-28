@@ -2,8 +2,7 @@
 # 💫 About Me:
 I'm a programmer from  Bangladesh 
 
-<img src="https://web.facebook.com/photo/?fbid=648271910521370&set=a.100655601949673"width="512px"/>
-
+![](https://web.facebook.com/photo/?fbid=648271910521370&set=a.100655601949673)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100060156993210) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@hkrsh) 
